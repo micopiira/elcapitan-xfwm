@@ -2,6 +2,8 @@
 
 OS X El Capitan like theme for XFWM4.
 
+![Example image](http://i.imgur.com/EVuchud.png)
+
 ## Installing
 
     mkdir ~/.themes
