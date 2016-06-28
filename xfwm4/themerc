@@ -1,4 +1,4 @@
-# Name: Numix xfwm4 theme
+# Config Based on Numix xfwm4 theme
 # Author: Satyajit Sahoo <satyajit.happy@gmail.com>
 # License: GPL-3.0+
 
@@ -6,7 +6,7 @@ active_text_color=#000000
 inactive_text_color=#888888
 button_offset=3
 button_spacing=0
-show_app_icon=true
+show_app_icon=false
 full_width_title=true
 maximized_offset=0
 title_horizontal_offset=3
