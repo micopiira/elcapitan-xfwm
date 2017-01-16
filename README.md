@@ -1,7 +1,6 @@
 # elcapitan-xfwm
 
 OS X El Capitan like theme for XFWM4
-Original by [micopiira](https://github.com/micopiira/elcapitan-xfwm)
 
 ![Example image](http://i.imgur.com/xq5o7qt.png)
 ![Example image](http://i.imgur.com/n49lfrR.png)
@@ -11,14 +10,10 @@ Original by [micopiira](https://github.com/micopiira/elcapitan-xfwm)
 
     mkdir ~/.themes
     cd ~/.themes
-    git clone https://github.com/WhAtEvErYoUmEaN/elcapitan-xfwm.git
+    git clone https://github.com/micopiira/elcapitan-xfwm.git
 
 ## Manual Download
 
-https://github.com/WhAtEvErYoUmEaN/elcapitan-xfwm/archive/master.zip
-
-https://github.com/WhAtEvErYoUmEaN/elcapitan-xfwm/archive/larger-borders.zip
-
-https://github.com/WhAtEvErYoUmEaN/elcapitan-xfwm/archive/hidpi.zip
+https://github.com/micopiira/elcapitan-xfwm/archive/master.zip
 
 Window circle icons from http://synetcon.deviantart.com/art/OSX-Yosemite-window-buttons-459868391
