@@ -1,10 +1,8 @@
 # elcapitan-xfwm
 
-OS X El Capitan like theme for XFWM4
+MacOS like theme for XFWM4
 
-![Example image](http://i.imgur.com/xq5o7qt.png)
-![Example image](http://i.imgur.com/n49lfrR.png)
-![Example image](http://i.imgur.com/tOthinM.png)
+![Example image](https://i.imgur.com/2RqCf7K.png)
 
 ## Installing
 
