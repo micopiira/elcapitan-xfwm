@@ -2,8 +2,7 @@
 
 MacOS like theme for XFWM4
 
-![Example image](https://i.imgur.com/6BypfOX.png)
-![Example image](https://i.imgur.com/2RqCf7K.png)
+![Example image](https://i.imgur.com/650MN5U.png)
 
 ## Installing
 
